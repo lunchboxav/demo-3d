@@ -1,0 +1,8 @@
+[package]
+name = "demo-3d"
+version = "0.1.0"
+authors = ["Adityo Pratomo <pratomo.adityo@gmail.com>"]
+
+[dependencies]
+glium = "*"
+image = "*"
